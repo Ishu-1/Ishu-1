@@ -1,8 +1,23 @@
 <!-- GitHub Profile README - Ishu Gupta -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ishu%20Gupta&fontAlign=40&fontAlignY=40&color=gradient&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlign=50&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Ishu%20Gupta&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descAlign=50" />
 </div>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20With-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
 ---
 
@@ -17,23 +32,11 @@
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Tech Stack
 
-#### 💻 Languages, Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
-</p>
-
-#### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,aws" />
-</p>
-
-#### ⚙️ DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,kubernetes" />
-</p>
+| 💻 Languages            | 🧱 Frameworks & Libraries     | ☁️ Databases & Cloud    | ⚙️ DevOps & Tools            |
+|------------------------|-------------------------------|--------------------------|------------------------------|
+| C++, JavaScript, Python, TypeScript | React.js, Next.js, Node.js        | MongoDB, PostgreSQL, AWS     | Git, GitHub, Docker, Kubernetes |
 
 ---
 

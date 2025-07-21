@@ -1,13 +1,17 @@
 <!-- GitHub Profile README - Ishu Gupta -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Ishu%20Gupta&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descAlign=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+I'm+Ishu+Gupta;Full+Stack+Developer+%7C+Competitive+Programmer;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:38B2AC&height=160&section=header&text=Ishu%20Gupta&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descAlign=50" />
 </div>
 
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20With-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
@@ -15,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
@@ -27,7 +31,8 @@
 
 - 🎯 Building web apps with **React, Next.js, Node.js, and PostgreSQL**
 - 💡 Obsessed with clean code, performance, and developer tooling
-- 📚 Practicing DSA daily and competing on coding platforms
+- 📚 Practicing DSA daily and competing on coding platforms  
+  → Check out my [LeetCode Profile](https://leetcode.com/u/Ishu__Gupta/) for over 1000+ problems solved
 - 🌱 Exploring backend design, system architecture, and DevOps tools
 
 ---

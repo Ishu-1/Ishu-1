@@ -20,7 +20,7 @@ I’m **Ishu Gupta**, an aspiring software engineer from India, currently pursui
 - 🧠 Enjoy solving DSA problems and competing in programming contests
 - 💬 I love discussing system design, clean architecture, and code quality
 - 🛠️ Always learning and working on meaningful side projects
-- 📫 Reach out to me: `ishu1402gupta@gmail.com`
+- 📫 Reach out to me: `ishugupta3556@gmail.com`
 
 ---
 

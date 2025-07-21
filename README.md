@@ -31,8 +31,7 @@
 
 - 🎯 Building web apps with **React, Next.js, Node.js, and PostgreSQL**
 - 💡 Obsessed with clean code, performance, and developer tooling
-- 📚 Practicing DSA daily and competing on coding platforms  
-  → Check out my [LeetCode Profile](https://leetcode.com/u/Ishu__Gupta/) for over 1000+ problems solved
+- 📚 Practicing DSA daily and competing on coding platforms [LeetCode Profile](https://leetcode.com/u/Ishu__Gupta/)
 - 🌱 Exploring backend design, system architecture, and DevOps tools
 
 ---
@@ -40,18 +39,18 @@
 ## 🧰 Tech Stack
 
 #### 💻 Languages, Frameworks & Libraries
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
 </p>
 
 #### 🗄️ Databases & Cloud
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,aws" />
 </p>
 
 #### ⚙️ DevOps & Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,kubernetes" />
 </p>
 

@@ -32,11 +32,23 @@
 
 ---
 
-## ⚙️ Tech Stack
+## 🧰 Tech Stack
 
-| 💻 Languages            | 🧱 Frameworks & Libraries     | ☁️ Databases & Cloud    | ⚙️ DevOps & Tools            |
-|------------------------|-------------------------------|--------------------------|------------------------------|
-| C++, JavaScript, Python, TypeScript | React.js, Next.js, Node.js        | MongoDB, PostgreSQL, AWS     | Git, GitHub, Docker, Kubernetes |
+#### 💻 Languages, Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
+</p>
+
+#### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,aws" />
+</p>
+
+#### ⚙️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,kubernetes" />
+</p>
 
 ---
 
